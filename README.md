@@ -85,6 +85,10 @@ yarn start
 
 ---
 
+## ⚙️ Vercel 一键部署
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/idoingno/umami.git&project-name=umami&repository-name=umami)
+
 ## 🐳 Installing with Docker
 
 To build the Umami container and start up a Postgres database, run:
